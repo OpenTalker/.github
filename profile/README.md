@@ -9,4 +9,4 @@
 🌈 **Contribution guidelines**: Any issues and pull requests are welcome.
 
 
-** Contact **: [@vinthony](https://github.com/vinthony)
+🧁 **Contact**: [@vinthony](https://github.com/vinthony)
